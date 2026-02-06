@@ -1,6 +1,6 @@
 BRG001,Roti,20
 BRG002,Aqua,15
-BRG003,Teh Botol,10
+BRG003,Teh,10
 BRG004,Chitato,13
 BRG005,Lays,22
 BRG006,Sprite,7
